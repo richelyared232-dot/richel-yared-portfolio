@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Kathmandu');
 
 $dbHost = '127.0.0.1';
-$dbName = 'tsion_portfolio';
+$dbName = 'richel_portfolio';
 $dbUser = 'root';
 $dbPass = '';
 
@@ -342,7 +342,7 @@ $currentYear = date('Y');
               <div class="contact-icon"><i class="bi bi-person"></i></div>
               <div>
                 <span>Student</span>
-                <strong>Tsion &middot; Grade 12</strong>
+                <strong>Richel &middot; Grade 12</strong>
               </div>
             </li>
             <li>
@@ -434,7 +434,7 @@ $currentYear = date('Y');
       </div>
     </div>
     <div class="footer-bottom">
-      <span>&copy; <?= $currentYear ?> Tsion. Built for a Grade 12 school project.</span>
+      <span>&copy; <?= $currentYear ?> Richel. Built for a Grade 12 school project.</span>
       <a href="#home">Back to top <i class="bi bi-arrow-up"></i></a>
     </div>
   </div>
